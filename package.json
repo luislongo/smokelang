@@ -1,0 +1,11 @@
+{
+  "name": "personal",
+  "version": "1.0.0",
+  "description": "smokelang",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
